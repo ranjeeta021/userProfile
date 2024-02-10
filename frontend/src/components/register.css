@@ -1,0 +1,22 @@
+/* Register.css */
+.register-container {
+    margin-top: 50px;
+}
+
+.register-heading {
+    margin-bottom: 20px;
+}
+
+.register-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.register-form-group {
+    margin-bottom: 20px;
+}
+
+.register-submit-btn {
+    width: 100%;
+    margin-top: 20px;
+}
